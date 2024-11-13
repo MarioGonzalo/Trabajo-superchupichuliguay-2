@@ -7,7 +7,6 @@
     <list default="true" id="f1d405e1-3f4f-4985-86e0-4075040d5c0a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <list id="396ce351-6e3a-43d7-9986-77f0d64e59df" name="Changes by carlo" comment="Changes by carlo" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +79,8 @@
       <workItem from="1731004723292" duration="1699000" />
       <workItem from="1731342569977" duration="6128000" />
       <workItem from="1731509221549" duration="7443000" />
-      <workItem from="1731532490725" duration="2306000" />
+      <workItem from="1731532490725" duration="2371000" />
+      <workItem from="1731536350932" duration="1776000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -122,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731521741573</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Menos mal que dios existe y me ha tendido la mano">
+      <option name="closed" value="true" />
+      <created>1731535298181</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731535298181</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +142,7 @@
     <MESSAGE value="Changes by carlo" />
     <MESSAGE value="Bueno, el día 2, estamos casi" />
     <MESSAGE value="Me voy a cortar los huevos con un machete cubierto en ácido sulfúrico :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Me voy a cortar los huevos con un machete cubierto en ácido sulfúrico :)" />
+    <MESSAGE value="Menos mal que dios existe y me ha tendido la mano" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menos mal que dios existe y me ha tendido la mano" />
   </component>
 </project>
