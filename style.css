@@ -2,3 +2,95 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
 }
+header{
+    background-color: #4caf50;
+    color: white;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+header>h1,h2{
+    font-weight: bold;
+}
+
+#Foto{
+    width:140px;
+    height:140px;
+
+}
+
+.Cuerpo{
+    display: flex;
+
+}
+
+/*CSS asociado al Nav*/
+nav{
+    background-color: #f0f0f0;
+    width: 20%;
+    align-content: center;
+    padding-left: 9px;
+    padding-bottom: 15px;
+}
+
+input{
+    text-align: left;
+    background-color: white;
+    width: 200px;
+    height: 59px;
+    border: 5px solid black;
+    margin: 2px;
+}
+
+input:focus {
+    background-color:red;
+}
+/**/
+
+/*Todo el css de los articulos son los siguientes cuatro apartados*/
+.Articulos{
+    background-color: cyan;
+    width: 60%;
+}
+.ConfiguracionArticulos{
+    margin-left: 15px;
+}
+.ConfiguracionArticulos>p{
+      font-size: 14px;
+}
+.ConfiguracionArticulos>h4{
+    font-weight: bold;
+}
+/*Fin del CSS articulos*/
+
+/**/
+.Comparar{
+    background-color: #faebd7;
+    width: 20%;
+}
+.Comparar > h3{
+    font-weight: bold;
+    text-align: center;
+}
+.Comparar>h3:first-child{
+    text-align: left;
+    padding-left: 10px;
+
+}
+.Caja{
+    padding: 5px;
+    width: 300px;
+    border: 1px solid lightgray;
+    margin: 10px;
+}
+/**/
+
+
+footer{
+    width: 100%;
+    background-color: #4caf50;
+    text-align: center;
+    color: lightblue;
+    height: 80px;
+}

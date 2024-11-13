@@ -1,15 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><!-- -->
+<html lang="en"><!-- -->
+<head><!-- -->
     <meta charset="UTF-8">
     <title>Title</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css"> <!--link al archivo CSS para aplicar los diferentes estilos-->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
 </head>
-<body>
-    <header>
-        Comparador de artículos
+
+<body><!-- -->
+    <header><!-- -->
+        <h1>Comparador de Artículos</h1><!-- -->
+        <h2>Nombre H2</h2>
+        <h2>Nombre H1</h2>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyus_AywMibqBKgGAj4HWG-4LMP0d-O1wDhg&s" id="Foto"><!-- -->
     </header>
-    <
+
+    <div class="Cuerpo"><!--Div de clase cuerpo que contiene toda la pagina aparte de head y el footer. Div principal-->
+        <nav><!--Barra de navegacion que contiene todos los botones -->
+            <p>EXAMEN: Nombre de Alumno, NP</p><!--Primar parrafo encima de todo-->
+            <a href="https://uax.es"><input type="button" value="Uax" id="Uax"></a><!-- -->
+            <input type="button" value="Mi blog"><!-- -->
+            <input type="button" value="Mi horario"><!-- -->
+            <a href="https://campus.uax.es"><input type="button" value="La universidad"></a><!-- -->
+            <input type="button" value="Otros"><!-- -->
+        </nav>
+
+        <div class="Articulos"><!-- -->
+            <div class="ConfiguracionArticulos">
+                <h4>Articulo 1</h4><!--El primer articulo con los dos parrafos que le acompañan-->
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <p>Curabitur nec turpis nec nulla consequat tristique.</p>
+                <h4>Articulo 2</h4><!--Articulo dos y los dos parrafos que le acompañan-->
+                <p>Vestibulum ante ipsum primis in faucibus orci luctus e ultrices pusuele cubira curae.</p>
+                <p>Pellentesque habitant morbi trisrique senectus et netus et malesuada fames ac turpis egestas.</p>
+            </div>
+        </div><!-- -->
+
+        <div class = "Comparar"><!--Abrir un div con la clase comparar-->
+            <h3> Resultados de la comparación </h3>
+            <h3> Comparativa de Artículos </h3>
+            <p class="Caja">Artículo A: Valor A</p>
+            <p class="Caja"> Artículo B: Valor B</p>
+        </div><!--Cerrar el div de clase comparar-->
+    </div><!--Cierre del div principal-->
+
+    <footer><!--Pie de página con  -->
+        <a href="https://www.uax.es">Universidad Alfonso X el Sabio</a>
+    </footer>
 
 </body>
 </html>
