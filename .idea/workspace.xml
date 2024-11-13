@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1d405e1-3f4f-4985-86e0-4075040d5c0a" name="Changes" comment="Bueno, el día 2, estamos casi">
+    <list default="true" id="f1d405e1-3f4f-4985-86e0-4075040d5c0a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -79,7 +79,8 @@
       <updated>1731004722082</updated>
       <workItem from="1731004723292" duration="1699000" />
       <workItem from="1731342569977" duration="6128000" />
-      <workItem from="1731509221549" duration="7127000" />
+      <workItem from="1731509221549" duration="7443000" />
+      <workItem from="1731532490725" duration="2306000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -113,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731519944287</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Me voy a cortar los huevos con un machete cubierto en ácido sulfúrico :)">
+      <option name="closed" value="true" />
+      <created>1731521741573</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731521741573</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,8 +131,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Que he hecho cosas, espérate un momento" />
-    <MESSAGE value="Bueno, el día 2, estamos casi" />
     <MESSAGE value="Changes by carlo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes by carlo" />
+    <MESSAGE value="Bueno, el día 2, estamos casi" />
+    <MESSAGE value="Me voy a cortar los huevos con un machete cubierto en ácido sulfúrico :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Me voy a cortar los huevos con un machete cubierto en ácido sulfúrico :)" />
   </component>
 </project>
