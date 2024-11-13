@@ -90,6 +90,7 @@ footer{
     width: 100%;
     background-color: #4caf50;
     text-align: center;
-    color: lightblue;
+    align-content: center;
+    color: white;
     height: 80px;
 }
