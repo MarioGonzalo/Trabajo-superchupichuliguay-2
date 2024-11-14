@@ -5,7 +5,7 @@
 html, body{
     height: 100%;
     margin: 0;
-}
+}/*Css del header con el background color la altura e anchuar y el flex para organizarlo*/
 header{
     height: 170px;
     width: 100%;
@@ -14,17 +14,17 @@ header{
     display: flex;
     justify-content: space-between;
 }
-
+/*Poner el texto del header en negrita*/
 header>h1,h2{
     font-weight: bold;
 }
-
+/*Configuracion de la imagen del header*/
 #Foto{
     width:150px;
     height:150px;
     margin: 10px;
 }
-
+/*tamaño que ocupa y organizacion del nav los articulos y el comparador*/
 .Cuerpo{
     display: flex;
     flex-grow: 1;
@@ -39,7 +39,7 @@ nav{
     padding-left: 9px;
     padding-bottom: 15px;
 }
-
+/*Los botones del nav*/
 input{
     text-align: left;
     width: 80%;
@@ -47,7 +47,7 @@ input{
     border: 5px solid black;
     margin: 2px;
 }
-
+/*Si clicas un boton se pondra en rojo*/
 input:focus {
     background-color:red;
     font-weight: bold;
@@ -70,7 +70,7 @@ input:focus {
 }
 /*Fin del CSS articulos*/
 
-/**/
+/*CSS del comparador con el background color su tamaño y las cajas de que tiene dentro*/
 .Comparar{
     background-color: #faebd7;
     width: 30%;
@@ -91,7 +91,7 @@ input:focus {
 }
 /**/
 
-
+/*CSS del footer*/
 footer {
     width: 100%;
     height: 80px;
